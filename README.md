@@ -4,7 +4,7 @@ Do you like to have the auto generated release notes for your GitHub repository?
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Supported versions">
-  <img src="https://img.shields.io/github/license/StephanAkkerman/release-notes-generatorsvg?color=brightgreen" alt="License">
+  <img src="https://img.shields.io/github/license/StephanAkkerman/release-notes-generator.svg?color=brightgreen" alt="License">
   <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black"></a>
 </p>
 
